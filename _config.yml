@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "zh-CN"
-title                    : "Cingman’ Note / 记录所见所得"
+title                    : "Cingman’ Note"
 title_separator          : "-"
 name                     : &name "Cingman Wu"
 description              : &description "Backend Software Engineer in Guangzhou"
