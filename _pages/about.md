@@ -1,9 +1,9 @@
 ---
 permalink: /
 
-title: "A Canvas For My Thoughts to Tech and Life "
+title: "关于"
 
-excerpt: "关于我"
+excerpt: "关于"
 
 author_profile: true
 
@@ -11,3 +11,5 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
+记录一些技术相关的笔记和思考

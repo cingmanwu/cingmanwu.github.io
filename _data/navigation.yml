@@ -25,7 +25,7 @@ main:
 # main links links
 main:
 
-  - title: "技术文章"
+  - title: "计算机网络"
     url: /posts/
 
   - title: "碎碎念"
