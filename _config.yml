@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "zh-CN"
-title                    : "Cingman / 记录想法的地方"
+title                    : "Cingman / 思想记录的地方"
 title_separator          : "-"
 name                     : &name "Cingman Wu"
-description              : &description "personal description"
+description              : &description "Backend Software Engineer in Guangzhou"
 url                      : https://cingmanwu.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "cingmanwu/academicpages.github.io"
@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Cingman"
   avatar           : "profile.png"
-  bio              : "技术宅 喜欢想为什么 喜欢美食"
+  bio              : "技术宅 喜欢想为什么 美食"
   location         : "中国 广州"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  # googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  # researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -197,7 +197,7 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       read_time: true
       comments: true
       share: true

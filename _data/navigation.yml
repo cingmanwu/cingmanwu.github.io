@@ -4,19 +4,34 @@ main:
     url: /publications/
 
   - title: "Talks"
-    url: /talks/    
+    url: /talks/
 
   - title: "Teaching"
-    url: /teaching/    
-    
+    url: /teaching/
+
   - title: "Portfolio"
     url: /portfolio/
-        
+
   - title: "Blog Posts"
     url: /year-archive/
-    
+
   - title: "CV"
     url: /cv/
     
   - title: "Guide"
     url: /markdown/
+
+
+# main links links
+main:
+
+  - title: "技术文章"
+    url: /posts/
+
+  - title: "碎碎念"
+    url: /gossip/
+
+
+  - title: "关于我"
+    url: /cv/
+
