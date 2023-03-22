@@ -1,13 +1,8 @@
 ---
 layout: archive
-permalink: /about/
-
 title: "关于"
-
-[comment]: <> (excerpt: "关于")
-
+permalink: /about/
 author_profile: true
-
 ---
 
 
