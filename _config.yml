@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "zh-CN"
-title                    : "Cingman / 思想记录的地方"
+title                    : "Cingman’ Note / 记录所见所得"
 title_separator          : "-"
 name                     : &name "Cingman Wu"
 description              : &description "Backend Software Engineer in Guangzhou"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Cingman"
   avatar           : "profile.png"
-  bio              : "技术宅 喜欢想为什么 美食"
+  bio              : "计算机科学 云计算"
   location         : "中国 广州"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   # googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "cingman@163.com"
   # researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

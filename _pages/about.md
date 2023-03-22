@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /about
 
 title: "关于"
 
@@ -11,5 +11,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
 
 记录一些技术相关的笔记和思考

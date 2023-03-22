@@ -5,8 +5,8 @@ main:
     url: /posts/
 
   - title: "计算机网络"
-    url: /gossip/
+    url: /network/
 
-  - title: "关于我"
+  - title: "关于"
     url: /about/
 
