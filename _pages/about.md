@@ -1,5 +1,6 @@
 ---
-permalink: /about
+layout: archive
+permalink: /about/
 
 title: "关于"
 
