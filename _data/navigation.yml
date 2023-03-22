@@ -1,13 +1,12 @@
 # main links links
 main:
 
-  - title: "计算机网络"
+  - title: "首页"
     url: /posts/
 
-  - title: "碎碎念"
+  - title: "计算机网络"
     url: /gossip/
 
-
   - title: "关于我"
-    url: /cv/
+    url: /about/
 
