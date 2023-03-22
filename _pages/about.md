@@ -3,7 +3,7 @@ permalink: /about
 
 title: "关于"
 
-excerpt: "关于"
+[comment]: <> (excerpt: "关于")
 
 author_profile: true
 
