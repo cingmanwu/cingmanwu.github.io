@@ -7,6 +7,9 @@ main:
   - title: "计算机网络"
     url: /network/
 
+  title: "Python"
+    url: /python/
+
   - title: "关于"
     url: /about/
 
