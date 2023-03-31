@@ -1,5 +1,5 @@
 ---
-permalink: /home
+permalink: /home/
 
 title: "首页"
 [comment]: <> (excerpt: "关于")

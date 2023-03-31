@@ -2,7 +2,7 @@
 main:
 
   - title: "首页"
-    url: /
+    url: /home/
 
   - title: "计算机网络"
     url: /network/
